@@ -1,4 +1,5 @@
-/*
+/*                                                        JULY 5 , 2025
+
 Given an integer, , perform the following conditional actions:
 
 If  is odd, print Weird
